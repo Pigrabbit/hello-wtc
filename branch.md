@@ -12,3 +12,7 @@
 ## merge
 
 브랜치를 병합할 때 사용합니다.
+
+## pull request
+
+Fork 한 저장소에 Push 하고 나면 프로젝트 관리자에게 이 내용을 알려야 한다. 이것을 'Pull Request’라고 한다. Git 호스팅 사이트에서 관리자에게 보낼 메시지를 생성하거나 git request-pull 명령으로 이메일을 수동으로 만들 수 있다. GitHub의 "pull request" 버튼은 자동으로 메시지를 만들어 주는데 관련 내용은 GitHub 에서 살펴볼 수 있다.
